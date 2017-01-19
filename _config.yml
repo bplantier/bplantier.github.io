@@ -1,5 +1,6 @@
 name: bplantier CCIE Journey
 markdown: kramdown
+theme: minima
 gems:
   - jekyll-feed
   - minima
