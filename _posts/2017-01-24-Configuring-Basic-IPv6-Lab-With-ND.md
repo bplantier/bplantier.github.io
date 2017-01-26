@@ -7,7 +7,7 @@ categories: ccie ipv6 nd
 
 # Basic network topology
 
-![Basic IPv6 Topology]({{ site.url }}/assets/Basic-IPv6-Lab-With-ND-Topology.jpg)
+![Basic IPv6 Topology](/assets/Basic-IPv6-Lab-With-ND-Topology.jpg)
 
 # Autoconfig router configuration
 
