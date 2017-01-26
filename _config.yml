@@ -22,13 +22,18 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bruno_plantier
-github_username:  bplantier
+github_username:  biplantier
+paginate: 6
+disqus:
+    shortname: ccie-plantier-net
+
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
